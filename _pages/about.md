@@ -11,4 +11,4 @@ My name is Ian Roma, and I am a 3rd year political science M.A./Ph.D. student at
 
 My research focuses primarily on democracy and American electoral systems, public law, and political behavior, among other topics. On the research page of this website you will find my working papers as I progress through my program. Please email me at ianroma@buffalo.edu if you are interested in reading any of these papers. 
 
-I've also received the Robert H. Stern Prize for Undergraduate Excellence in Political Science (2024) at SUNY Buffalo for a paper on judicial politis, along with the UB Visions of Social Justice (2026) and SUNY Service Project Impact (2026) Awards for my efforts to support student voting in local, state, and national elections. 
+I've also received the Robert H. Stern Prize for Undergraduate Excellence in Political Science (2024) at SUNY Buffalo for a paper on judicial politics, along with the UB Visions of Social Justice (2026) and SUNY Service Project Impact (2026) Awards for my efforts to support student voting in local, state, and national elections. 
