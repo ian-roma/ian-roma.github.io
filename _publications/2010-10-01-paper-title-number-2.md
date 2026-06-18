@@ -2,7 +2,7 @@
 title: "A Field Experiment on Direct Voter Contact in Buffalo's University Heights (with Dr. Jacob Neiheisel and Dr. R.J. Haq)"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/field-experiment-paper-2
 # excerpt: ''
 # date: 2010-10-01
 # venue: 'Journal 1'
