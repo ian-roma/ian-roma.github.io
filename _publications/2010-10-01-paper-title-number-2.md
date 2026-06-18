@@ -1,9 +1,9 @@
 ---
-title: ""A Field Experiment on Direct Voter Contact in Buffalo's University Heights" (with Dr. Jacob Neiheisel and Dr. R.J. Haq)"
+title: "A Field Experiment on Direct Voter Contact in Buffalo's University Heights (with Dr. Jacob Neiheisel and Dr. R.J. Haq)"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+# excerpt: ''
 # date: 2010-10-01
 # venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
