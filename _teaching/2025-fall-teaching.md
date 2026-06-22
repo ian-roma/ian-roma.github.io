@@ -8,4 +8,4 @@ date: 2025-08-27
 location: "Buffalo, NY"
 ---
 
-This undergraduate course served as an introduction to statistics, examining descriptive statistics, hypothesis testing, bivariate statistics, and regression analysis. As the instructor of the lab portion of this course for two semesters, I crafted lecture material and R code, graded exams, and held two recitations every week.
+This undergraduate course served as an introduction to statistics, examining descriptive statistics, hypothesis testing, bivariate statistics, and regression analysis. As the instructor of the lab portion of this course, I crafted lecture material and R code, graded exams, and held two recitations every week.
