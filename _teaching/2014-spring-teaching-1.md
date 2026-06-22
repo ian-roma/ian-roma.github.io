@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate lab"
 permalink: /teaching/2025-fall
 venue: "SUNY Buffalo, Department of Political Science"
-date: "Fall 2025 - Spring 2026"
+date: Fall 2025
 location: "Buffalo, NY"
 ---
 
