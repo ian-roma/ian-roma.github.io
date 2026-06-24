@@ -1,5 +1,5 @@
 ---
-title: "Beyond Initial Adoption: Modeling Sustained Relative Compliance to Supreme Court Precdent in the U.S. Court of Appeals, 1980-2024"
+title: "Beyond Initial Adoption: Modeling Sustained Relative Compliance to Supreme Court Precedent in the U.S. Court of Appeals, 1980-2024"
 collection: publications
 category: manuscripts
 permalink: /publication/src-paper-1
